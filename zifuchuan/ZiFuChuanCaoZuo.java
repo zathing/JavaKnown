@@ -1,7 +1,8 @@
 package zifuchuan;
 
 /**
- * Created by j00406054 on 2017/9/18.
+ * Created by yldbg on 2017/9/18.
+ * 字符串常见操作
  */
 import java.util.Arrays;
 import java.util.Date;
