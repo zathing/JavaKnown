@@ -2,7 +2,7 @@ package jicheng;
 
 /**
  * Created by yldbg on 2017/9/12.
- * 定义一个“动物”类，内部定义了“吃”、“运动”、构造方法。
+ * 定义一个“动物”类，内部定义了“吃”、“运动”、带参数和不带参数的构造方法。
  */
 public class Animal {
     public boolean live = true;
