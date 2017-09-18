@@ -2,6 +2,7 @@ package jiekou;
 
 /**
  * Created by j00406054 on 2017/9/15.
+ * 接口实现：计算圆的面积、周长，并画一个圆形。
  */
 public class Circ implements Calculate, GeometryShape {
     public float getArea(float r) {
@@ -25,4 +26,3 @@ public class Circ implements Calculate, GeometryShape {
         circ.draw();
     }
 }
-
