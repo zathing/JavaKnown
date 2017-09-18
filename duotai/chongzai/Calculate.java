@@ -1,4 +1,4 @@
-package duotai;
+package duotai.chongzai;
 
 /**
  * Created by yldbg on 2017/9/12.
